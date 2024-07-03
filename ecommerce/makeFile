@@ -1,2 +1,2 @@
-target:
-    recipe
+server:
+	poetry run python -m core.manage runserver
